@@ -4,5 +4,5 @@ uvicorn[standard]
 python-multipart
 numpy
 Pillow
-tensorflow==2.11.0
-tensorflow-hub==0.13.0
+tensorflow==2.11.0 
+tensorflow-hub
